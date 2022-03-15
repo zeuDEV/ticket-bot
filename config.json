@@ -1,0 +1,9 @@
+{
+  "prefix": ".",
+     "token": "OTUzMTMzMTE2NzIwMDM3OTE4.YjAIYw.F9KPTcVvWHiDYkFQzOyiW0Scri8",
+     "mongourl": "mongodb+srv://nuttynuke:nuttynuke@cluster0.l47hr.mongodb.net/myFirstDatabase?retryWrites=true&w=majority",
+  "status":{
+    		"name": ".HELP",
+    		"type": "streaming"
+    	}
+}

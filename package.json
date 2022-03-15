@@ -1,0 +1,23 @@
+{
+  "name": "tickets-button-bot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Prometheus",
+  "license": "ISC",
+  "dependencies": {
+    "discord-buttons": "^4.0.0",
+    "discord-reply": "^0.1.2",
+    "discord.js": "^12.5.3",
+    "dotenv": "^10.0.0",
+    "express": "^4.17.1",
+    "pretty-ms": "^7.0.1",
+    "quickmongo": "^3.0.2",
+    "randomstring": "^1.2.1",
+    "st.db": "^2.0.0"
+  }
+}
